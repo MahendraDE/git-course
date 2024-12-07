@@ -4,4 +4,4 @@ manage the database
 closing the connection
 
 change1
-change2 in sql database
+change2 in sql's database
